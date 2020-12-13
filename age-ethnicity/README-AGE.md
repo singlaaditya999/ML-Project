@@ -26,7 +26,7 @@
                 Reference Code- 
                 [Youtube Video link](https://www.youtube.com/watch?v=rwiPcSrPPQk)
                 Dataset Used-
-                [Github repo limk](https://github.com/laxmimerit/Image-Dataset-for-Age-Prediction)
+                [Github repo link](https://github.com/laxmimerit/Image-Dataset-for-Age-Prediction)
         
         
         
