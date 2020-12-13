@@ -5,7 +5,7 @@ Preferably use Jupyter Notebook or Kaggle Kernels or Google Collab.
                 This code has both Ethnicity Train and Prediction model.
                 How to run the code-
                 Use any jupyter notebook base .ipynb file environment like google collab or kaggle Kernel.
-                jupyter notebook is strongly recommanded.
+                jupyter notebook is strongly recommended.
                 Install all the libraries and dependencies for running the notebook.
                 Then , run the code cell by cell.
                 
