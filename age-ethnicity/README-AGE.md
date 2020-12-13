@@ -13,7 +13,7 @@
                 Dataset Used-
                 [Kaggle Face Dataset link](https://www.kaggle.com/nipunarora8/age-gender-and-ethnicity-face-data-csv)
         
-### Code2) Age_predict(real+saved) :
+### Code2) Age_predict(real+saved).ipynb :
                 This code has the prediction model for Age.
                 How to run the code-
                 Use any jupyter notebook base .ipynb file environment like google collab or kaggle Kernel.
