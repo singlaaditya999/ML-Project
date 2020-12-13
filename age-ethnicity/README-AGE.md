@@ -1,4 +1,5 @@
 ## There are 2 codes for the age part
+Preferably use Kaggle Kernels or Google Collab
 
 ### code1) ml-project-age-ethnicity.ipynb :
                 This code has both Age and Ethnicity model.
